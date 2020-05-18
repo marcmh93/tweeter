@@ -1,5 +1,5 @@
 import unittest
-import tweeter
+from src.tweeter import *
 from mock import Mock
 
 
